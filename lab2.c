@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
+char parola_george_maxbet[20] = "georgestresna123";
 
 int function(int x){
 	x=x-2;
